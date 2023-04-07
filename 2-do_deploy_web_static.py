@@ -7,7 +7,7 @@ from datetime import datetime
 from fabric.api import *
 import os
 
-env.hosts = ["52.91.121.146", "3.85.136.181"]
+env.hosts = ["52.87.10.77", "34.229.255.211"]
 env.user = "ubuntu"
 
 
